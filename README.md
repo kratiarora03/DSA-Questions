@@ -4,5 +4,8 @@ Welcome to my Data Structures and Algorithms (DSA) practice repository! This col
 
 Table of Contents: 
 
-Arrays
+1. Arrays
+2. Vectors
+3. 2D Arrays
+4. 2D Vectors 
 ( the repository is updated every few days).
