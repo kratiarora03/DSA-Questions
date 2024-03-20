@@ -7,5 +7,6 @@ Table of Contents:
 1. Arrays
 2. Vectors
 3. 2D Arrays
-4. 2D Vectors 
+4. 2D Vectors
+5. Searching
 ( the repository is updated every few days).
