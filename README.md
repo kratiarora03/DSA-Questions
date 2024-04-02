@@ -12,7 +12,7 @@ This repository is updated regularly to provide you with fresh challenges and op
 4. [2D Vectors](#2d-vectors)
 5. [Searching](#searching)
 6. [Sorting](#sorting)
-
+7. [Char & Strings](#char&strings)
 
 
 Feel free to contribute by adding more questions, solutions, or improvements to existing ones. Happy coding!
