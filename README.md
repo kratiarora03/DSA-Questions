@@ -11,6 +11,9 @@ This repository is updated regularly to provide you with fresh challenges and op
 3. [2D Arrays](#2d-arrays)
 4. [2D Vectors](#2d-vectors)
 5. [Searching](#searching)
-6. [Sorting](#sorting)
+6. [Sorting](#sorting) - 1. Insertion Sort 2. Bubble Sort 3. Selection Sort
 7. [Char & Strings](#char&Strings)
+
+
+
 
