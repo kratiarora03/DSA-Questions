@@ -13,7 +13,7 @@ This repository is updated regularly to provide you with fresh challenges and op
 5. [Searching](#searching)
 6. [Sorting](#sorting) - 1. Insertion Sort 2. Bubble Sort 3. Selection Sort
 7. [Char & Strings](#char&Strings)
-
+8. [Pointers](#pointers)
 
 
 
