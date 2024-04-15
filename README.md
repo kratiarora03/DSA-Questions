@@ -2,7 +2,6 @@
 
 Welcome to my Data Structures and Algorithms (DSA) practice repository! This collection contains a comprehensive set of questions related to different data structures, designed to enhance your problem-solving skills and deepen your understanding of key algorithms.
 
-This repository is updated regularly to provide you with fresh challenges and opportunities for practice.
 
 ## Table of Contents
 
