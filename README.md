@@ -2,7 +2,6 @@
 
 Welcome to my Data Structures and Algorithms (DSA) practice repository! This collection contains a comprehensive set of questions related to different data structures, designed to enhance your problem-solving skills and deepen your understanding of key algorithms.
 
-This repository is updated regularly to provide you with fresh challenges and opportunities for practice.
 
 ## Table of Contents
 
@@ -11,9 +10,9 @@ This repository is updated regularly to provide you with fresh challenges and op
 3. [2D Arrays](#2d-arrays)
 4. [2D Vectors](#2d-vectors)
 5. [Searching](#searching)
-6. [Sorting](#sorting)
-7. [Char & Strings](#char&strings)
+6. [Sorting](#sorting) - 1. Insertion Sort 2. Bubble Sort 3. Selection Sort
+7. [Char & Strings](#char&Strings)
+8. [Pointers](#pointers)
 
 
-Feel free to contribute by adding more questions, solutions, or improvements to existing ones. Happy coding!
 
