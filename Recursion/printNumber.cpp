@@ -5,7 +5,6 @@ void print(int n){
     if(n==1){
         cout<< n << endl;
         return;    }
-
         cout<< n << endl;
         print(n-1);
 }
